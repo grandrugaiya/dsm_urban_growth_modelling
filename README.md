@@ -1,4 +1,5 @@
 GIS–RS–LR-CA Urban Growth Model (DSM Prediction 2050)
+
 This project models and predicts urban growth in Dar es Salaam
 using Remote Sensing (RS), Logistic Regression, and Cellular Automata
 (CA). It analyzes land cover change from 2010 to 2020 and simulates
