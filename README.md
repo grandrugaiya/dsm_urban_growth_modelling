@@ -1,6 +1,6 @@
 GIS–RS–LR-CA Urban Growth Model (DSM Prediction 2050)
 
-Overview - This project models and predicts urban growth in Dar es Salaam
+This project models and predicts urban growth in Dar es Salaam
 using Remote Sensing (RS), Logistic Regression, and Cellular Automata
 (CA). It analyzes land cover change from 2010 to 2020 and simulates
 future urban expansion up to 2050.
@@ -23,7 +23,7 @@ Outputs - Transition probability map - Urban maps: 2010, 2020, 2030,
 
 Tools - R - terra, pROC, ggplot2, dplyr, patchwork
 
-How to Run git clone https://github.com/RugaiyaMemes/dsm_urban_growth_modelling.git
+How to Run git clone https://github.com/grandrugaiya/dsm_urban_growth_modelling.git
 
 setwd("G:/My Drive/My Projects/Papers/Dataset/RStudio/dsm_urban_growth_modelling") source(“dsm_urban_growth_modelling.R”)
 
